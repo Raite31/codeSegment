@@ -1,0 +1,11 @@
+<template>
+	<u-slider
+		v-model="slideWidth"
+		:min="0"
+		:max="100"
+		activeColor="#d43c33"
+		@moving="moveing"
+		@end="endMove"
+		@tap="onClick()"
+	></u-slider>
+</template>
