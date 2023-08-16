@@ -1,3 +1,5 @@
+// ============================= request.js
+
 import axios from 'axios'; // 引入axios
 import router from '../router';
 //element-ui 的loging，和信息提示
