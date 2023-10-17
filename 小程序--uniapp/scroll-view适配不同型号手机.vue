@@ -69,7 +69,7 @@
 <style lang="scss">
 .bottom {
 	uni-swiper {
-		height: calc(100vh - 680rpx) !important;
+		height: calc(100vh - 680rpx) !important; // 这里设置了scroll外层的高度 上面的height设置了scroll自身的高度
 	}
 
 	.swiper-item {
