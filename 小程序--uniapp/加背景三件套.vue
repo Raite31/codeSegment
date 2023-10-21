@@ -1,5 +1,10 @@
-style="
-    background: url('../static/new/image/tickets_bg.png');
-    background-repeat: no-repeat;
-    background-size: 100%;
-"
+<view
+	class="contain"
+	:style="{
+		background: 'url(/static/new/login-bg.png)',
+		backgroundRepeat: 'no-repeat',
+		backgroundSize: '100%',
+	}"
+>
+			
+</view>
