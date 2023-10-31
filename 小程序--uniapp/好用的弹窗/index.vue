@@ -42,5 +42,8 @@
 		height: 83rpx;
 		line-height: 83rpx;
 	}
+	.u-border-top:after {
+	    border-top-width: 0px;
+	}
 }
 </style>
