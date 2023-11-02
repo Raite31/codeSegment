@@ -1,0 +1,3 @@
+var name = ['dwadlajdia.svg','jsiodlajdia.svg']
+
+http://_www + name +  ……
