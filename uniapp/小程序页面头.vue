@@ -2,7 +2,7 @@
     <!-- 顶部栏 -->
     <view
         class="header-box"
-        style="color: #fff; padding: 0 20rpx; position: relative"
+        style="padding: 0 20rpx; position: relative"
     >
         <view style="position: absolute; left: 20rpx">
             <u-icon
@@ -32,18 +32,14 @@
 <style lang="scss">
 .header-box {
 	display: flex;
-	height: 300rpx;
-	background: linear-gradient(
-		161.12deg,
-		rgba(252, 91, 123, 1) 0%,
-		rgba(255, 66, 97, 1) 100%
-	);
-	color: #ffffff;
+	height: 100rpx;
+	background: #fff;
+	color: #000;
 	.header-icon{
-		margin-top: 65rpx !important;
+		margin-top: 35rpx !important;
 	}
 	.text-center{
-		padding: 60rpx;
+		padding: 30rpx;
 	}
 }
 .contain{
