@@ -1,6 +1,6 @@
 <template>
     <view class="title">
-        <view class="title-left mr12"> </view> 数据详情
+        <view class="title-left"> </view> 数据详情
     </view>
 </template>
 
@@ -13,6 +13,7 @@
         height: 26rpx;
         background: rgba(20, 65, 143, 1);
         border-radius: 20rpx;
+        margin-right: 12rpx;
     }
 }
 </style>
